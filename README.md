@@ -1,2 +1,34 @@
-# 42e8e935eae60b39-cybersecurity-client-onboardin
-You shouldn't need someone manually watching channels 24/7 to have 24/7 automated responses without touching a server.  Easy setup: invite → configure → active in under 10 minutes. 24/7 operation — runs on your server or scales to any hosting platform.  ## What's Included  - Cybersecurity Client Onboarding — fully configured and ready to use - Slas
+# Cybersecurity Client Onboarding Automation Workflow
+
+Professional client onboarding automation workflow built for cybersecurity operations and growth.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFa5kD26H4sc6xy1ZicZG2x)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa5kD26H4sc6xy1ZicZG2x)
+
